@@ -4,21 +4,21 @@
     <title>org-page</title>
     <link>https://ebpa.github.io/</link>
     <description>static site generator</description>
-    <pubDate>Sun, 29 Oct 2017 00:28:43 CDT</pubDate>
-    <lastBuildDate>Sun, 29 Oct 2017 00:28:43 CDT</lastBuildDate>
+    <pubDate>Sun, 29 Oct 2017 01:13:09 CDT</pubDate>
+    <lastBuildDate>Sun, 29 Oct 2017 01:13:09 CDT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>About this page</title>
       <link>https://ebpa.github.io/blog/2017/10/29/about-this-page/</link>
       <description><![CDATA[<div>
-<div class="post">
+<article>
 <h1>About this page</h1>
 <p>
 These pages are generated from Emacs <a href="http://orgmode.org/">org-mode</a> documents using the <a href="https://github.com/kelvinh/org-page">org-page</a> package.  Org-mode is similar to Markdown, but is designed for editing and manipulating rich text not just publishing it.  Here's a quick demo of org-mode in use: <a href="https://vimeo.com/15269391">Org-mode Screencasts - Episode 1 - The Basics</a>.
 </p>
 
-</div>
+</article>
 </div>]]></description>
       <pubDate>2017-10-29</pubDate>
       <guid>https://ebpa.github.io/blog/2017/10/29/about-this-page/</guid>
