@@ -14,8 +14,9 @@
    preserveAspectRatio="xMidYMid meet"
    id="svg3344"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="gnu.svg"
-   style="svg:hover #wink {
+   sodipodi:docname="gnu.svg">
+  <style>
+svg:hover #wink {
     opacity: 1;
 }
 
@@ -29,7 +30,8 @@ svg #wink {
 
 svg #smile {
     opacity: 1;
-}">
+    }
+</style>
   <defs
      id="defs3364" />
   <sodipodi:namedview
